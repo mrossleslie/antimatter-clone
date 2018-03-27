@@ -1,0 +1,27 @@
+a {
+    color: #525252;
+}
+
+a:hover {
+    color: #808080;
+}
+
+#header #logo h3 {
+    font-size: 1rem;
+}
+
+.modular .showcase h5 {
+    margin-bottom: 0;
+}
+
+#header.scrolled #navbar a {
+    color: #000 !important;
+}
+
+#header.scrolled #navbar a:hover {
+    color: #808080 !important;
+}
+
+#header.scrolled #navbar a:before, #header.scrolled #navbar a:after {
+    background-color: #000 !important;
+}
